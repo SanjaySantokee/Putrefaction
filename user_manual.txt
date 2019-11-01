@@ -1,0 +1,5 @@
+Use A to move Left
+Use D to move Right
+Use SPACE to jump
+Use mouse click (left click) to kill enemies and gain points.
+Rack up points to win
